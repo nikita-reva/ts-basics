@@ -1,0 +1,11 @@
+// Create package.json
+npm init -y
+
+// Compile file
+tsc <filename>.ts
+
+// Run file
+node <filename>.js
+
+// Compile and run file
+ts-node <filename>.ts

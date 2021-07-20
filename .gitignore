@@ -1,0 +1,9 @@
+# Dependency directories
+features/maps/node_modules
+features/maps/node_modules/
+fetchjson/node_modules
+fetchjson/node_modules/
+
+# Build directories
+features/maps/dist
+features/maps/dist/
